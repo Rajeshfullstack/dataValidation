@@ -1,0 +1,5 @@
+2024-09-19 23:00:36.976975 - Data loaded successfully.
+2024-09-19 23:00:36.992600 - Invalid age values found:
+  id         name  age
+2  3  Invalid Age  abc
+2024-09-19 23:00:36.992600 - Data validation failed.
