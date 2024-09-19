@@ -3,3 +3,8 @@
   id         name  age
 2  3  Invalid Age  abc
 2024-09-19 23:00:36.992600 - Data validation failed.
+2024-09-19 17:36:05.860476 - Data loaded successfully.
+2024-09-19 17:36:05.867016 - Invalid age values found:
+  id         name  age
+2  3  Invalid Age  abc
+2024-09-19 17:36:05.867073 - Data validation failed.
